@@ -1,20 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hellow Microverse
 
-> Description the project.
+> The project main focus on the linter and github flow that linter check the syntex and other of the project and the github flow is a file that used to ignore some file that are not executable in the project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML & CSS
 
 ## Getting Started
 
@@ -24,33 +17,24 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites 
+- no need to prerequisites 
 
 ### Setup
+- just can clone to local envirnment 
 
 ### Install
+- still this project no need to install 
 
 ### Usage
-
-### Run tests
-
-### Deployment
-
-
+- To share your skill and work experince in online
 
 ## Authors
 
-👤 **Author1**
+👤 **Mahdi Mahdawi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mahdimahdawi](https://github.com/mahdimahdawi)
+- LinkedIn: [Mahdi Mahdawi](https://www.linkedin.com/feed/)
 
 ## 🤝 Contributing
 
