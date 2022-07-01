@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hellow Microverse
+# Hello Microverse
 
 > The project main focus on the linter and github flow that linter check the syntex and other of the project and the github flow is a file that used to ignore some file that are not executable in the project.
 
