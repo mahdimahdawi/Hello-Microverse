@@ -2,10 +2,13 @@
 
 # Hello Microverse
 
+
+> Description the project.
 > The project main focus on the linter and github flow that linter check the syntex and other of the project and the github flow is a file that used to ignore some file that are not executable in the project.
 
 
 ## Built With
+
 
 - HTML & CSS
 
@@ -33,8 +36,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Mahdi Mahdawi**
 
+
 - GitHub: [@mahdimahdawi](https://github.com/mahdimahdawi)
 - LinkedIn: [Mahdi Mahdawi](https://www.linkedin.com/feed/)
+
 
 ## 🤝 Contributing
 
